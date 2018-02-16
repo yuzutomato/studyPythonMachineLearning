@@ -1,0 +1,2 @@
+# studyPythonMachineLearning
+Pythonではじめる機械学習の写経用リポジトリ
